@@ -1,0 +1,336 @@
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\temp7\OpenCVTemplate\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Программы\OpenCVTemplate\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 1\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 2\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 3\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 4\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 5\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 6\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 7\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 8\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 9\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 10\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 11\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 12\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 13\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 14\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 15\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 16\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\магистратура\Семестр 2\Программы\OpenCV\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\cvextern.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\opencv_core220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\opencv_highgui220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\opencv_imgproc220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\opencv_video220.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\OpenCVTemplate.exe
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\OpenCVTemplate.pdb
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\Emgu.CV.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\bin\Debug\Emgu.Util.dll
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.MainForm.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.Properties.Resources.resources
+C:\Users\Sergey\Desktop\нирс\Распознание картинок\OpenCV — 17\OpenCVTemplate\obj\x86\Debug\OpenCVTemplate.csproj.GenerateResource.Cache
